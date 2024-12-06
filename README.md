@@ -1,0 +1,1 @@
+I created a basic page in html and used a prompt box to prompt the user to supply his or her name. Then, using a document.write() statement, I also displayed Hello username! in an alert message on the same page.
